@@ -1,0 +1,1 @@
+DATABASE_FILENAME = 'latex_equation_indexer.db'
